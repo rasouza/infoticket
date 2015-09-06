@@ -17,3 +17,6 @@ Um profissional de suporte a TI deve ser capaz de gerenciar uma ou mais empresas
 - Suporte
 - Cliente
 - Supervisor
+
+### Instalação
+Rode `bundle install` depois de clonar o repositorio
