@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  maquina_id: 1
+  nome: MyString
+  email: MyString
+  senha: MyString
+
+two:
+  maquina_id: 1
+  nome: MyString
+  email: MyString
+  senha: MyString
