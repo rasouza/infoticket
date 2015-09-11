@@ -12,11 +12,12 @@ Um profissional de suporte a TI deve ser capaz de gerenciar uma ou mais empresas
 - Coleta de informações do Hardware da máquina do cliente para facilitar o atendimento dos chamados
 - Controlar remotamente as máquinas cadastradas pela própria plataforma.
 
-### Roles
+### Atores
 
 - Suporte
 - Cliente
 - Supervisor
+- Dono
 
 ### Instalação
 Rode `bundle install` depois de clonar o repositorio
