@@ -1,1 +1,1 @@
-json.extract! @ticket, :id, :user_id, :status_id, :titulo, :descricao, :created_at, :updated_at
+json.extract! @ticket, :id, :titulo, :descricao, :user_id, :status_id, :created_at, :updated_at

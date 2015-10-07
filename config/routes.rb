@@ -1,9 +1,5 @@
 Rails.application.routes.draw do
-  resources :users
-  resources :users
-  resources :users
   resources :tickets
-  resources :users
   resources :users
   get 'home/index'
 

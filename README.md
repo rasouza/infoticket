@@ -1,5 +1,7 @@
 # Infoticket
 
+[![Build Status](https://travis-ci.org/rasouza/infoticket.svg)](https://travis-ci.org/rasouza/infoticket)
+
 ### Overview
 
 Um profissional de suporte a TI deve ser capaz de gerenciar uma ou mais empresas, segmentada por setores, que presta serviço. Com isso o sistema deve implementar as seguintes funcionalidades-chave:
